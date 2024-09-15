@@ -5324,3 +5324,75 @@
 2024-09-15 03:10:45:1045 [32minfo[39m: [32m🛣️  Routes setup completed[39m
 2024-09-15 03:10:45:1045 [32minfo[39m: [32m🚧 Error Handler Applied[39m
 2024-09-15 03:10:45:1045 [32minfo[39m: [32m🚀 Benchmarking User Server is Running on PORT => 53321[39m
+2024-09-15 09:36:39:3639 [32minfo[39m: [32m💽 Database is Connected Successfully[39m
+2024-09-15 09:36:39:3639 [32minfo[39m: [32m🛣️  Routes setup completed[39m
+2024-09-15 09:36:39:3639 [32minfo[39m: [32m🚧 Error Handler Applied[39m
+2024-09-15 09:37:07:377 [32minfo[39m: [32m💽 Database is Connected Successfully[39m
+2024-09-15 09:37:07:377 [32minfo[39m: [32m🛣️  Routes setup completed[39m
+2024-09-15 09:37:07:377 [32minfo[39m: [32m🚧 Error Handler Applied[39m
+2024-09-15 09:37:07:377 [32minfo[39m: [32m🚀 Benchmarking User Server is Running on PORT => 53322[39m
+2024-09-15 10:05:34:534 [32minfo[39m: [32m💽 Database is Connected Successfully[39m
+2024-09-15 10:05:34:534 [32minfo[39m: [32m🛣️  Routes setup completed[39m
+2024-09-15 10:05:34:534 [32minfo[39m: [32m🚧 Error Handler Applied[39m
+2024-09-15 10:05:34:534 [32minfo[39m: [32m🚀 Benchmarking User Server is Running on PORT => 53322[39m
+2024-09-15 10:07:07:77 [32minfo[39m: [32m💽 Database is Connected Successfully[39m
+2024-09-15 10:07:07:77 [32minfo[39m: [32m🛣️  Routes setup completed[39m
+2024-09-15 10:07:07:77 [32minfo[39m: [32m🚧 Error Handler Applied[39m
+2024-09-15 10:07:07:77 [32minfo[39m: [32m🚀 Benchmarking User Server is Running on PORT => 53322[39m
+2024-09-15 10:11:48:1148 [32minfo[39m: [32m💽 Database is Connected Successfully[39m
+2024-09-15 10:11:48:1148 [32minfo[39m: [32m🛣️  Routes setup completed[39m
+2024-09-15 10:11:48:1148 [32minfo[39m: [32m🚧 Error Handler Applied[39m
+2024-09-15 10:11:48:1148 [32minfo[39m: [32m🚀 Benchmarking User Server is Running on PORT => 53322[39m
+2024-09-15 10:16:02:162 [32minfo[39m: [32m💽 Database is Connected Successfully[39m
+2024-09-15 10:16:02:162 [32minfo[39m: [32m🛣️  Routes setup completed[39m
+2024-09-15 10:16:02:162 [32minfo[39m: [32m🚧 Error Handler Applied[39m
+2024-09-15 10:16:02:162 [32minfo[39m: [32m🚀 Benchmarking User Server is Running on PORT => 53322[39m
+2024-09-15 10:31:48:3148 [32minfo[39m: [32mRequest received: GET /[39m
+2024-09-15 10:31:48:3148 [32minfo[39m: [32mRequest received: GET /[39m
+2024-09-15 10:31:48:3148 [32minfo[39m: [32mRequest received: POST /itemBank[39m
+2024-09-15 10:31:48:3148 [32minfo[39m: [32mRequest received: POST /itemBank[39m
+2024-09-15 10:31:48:3148 [32minfo[39m: [32mRequest received: POST /itemBank[39m
+2024-09-15 10:31:48:3148 [32minfo[39m: [32mRequest received: POST /itemBank[39m
+2024-09-15 10:32:07:327 [32minfo[39m: [32mRequest received: GET /years[39m
+2024-09-15 10:32:07:327 [32minfo[39m: [32mRequest received: GET /years[39m
+2024-09-15 10:32:07:327 [32minfo[39m: [32mRequest received: POST /competition[39m
+2024-09-15 10:32:41:3241 [32minfo[39m: [32mRequest received: GET /years[39m
+2024-09-15 10:32:41:3241 [32minfo[39m: [32mRequest received: GET /[39m
+2024-09-15 10:32:41:3241 [32minfo[39m: [32mRequest received: GET /[39m
+2024-09-15 10:32:41:3241 [32minfo[39m: [32mRequest received: POST /ratioBank[39m
+2024-09-15 10:32:41:3241 [32minfo[39m: [32mRequest received: POST /ratioBank[39m
+2024-09-15 10:32:41:3241 [32minfo[39m: [32mRequest received: POST /itemBank[39m
+2024-09-15 10:32:41:3241 [32minfo[39m: [32mRequest received: POST /ratioBank[39m
+2024-09-15 10:32:41:3241 [32minfo[39m: [32mRequest received: POST /bank[39m
+2024-09-15 10:32:41:3241 [32minfo[39m: [32mRequest received: POST /bank[39m
+2024-09-15 10:32:41:3241 [32minfo[39m: [32mRequest received: POST /itemBank[39m
+2024-09-15 10:32:41:3241 [32minfo[39m: [32mRequest received: POST /itemBank[39m
+2024-09-15 10:32:41:3241 [32minfo[39m: [32mRequest received: POST /itemBank[39m
+2024-09-15 10:32:41:3241 [32minfo[39m: [32mRequest received: GET /years[39m
+2024-09-15 10:32:41:3241 [32minfo[39m: [32mRequest received: POST /competition[39m
+2024-09-15 10:33:30:3330 [32minfo[39m: [32mRequest received: GET /years[39m
+2024-09-15 10:33:30:3330 [32minfo[39m: [32mRequest received: POST /ratioBank[39m
+2024-09-15 10:33:30:3330 [32minfo[39m: [32mRequest received: POST /ratioBank[39m
+2024-09-15 10:33:30:3330 [32minfo[39m: [32mRequest received: POST /ratioBank[39m
+2024-09-15 10:33:30:3330 [32minfo[39m: [32mRequest received: POST /itemBank[39m
+2024-09-15 10:33:30:3330 [32minfo[39m: [32mRequest received: POST /itemBank[39m
+2024-09-15 10:33:30:3330 [32minfo[39m: [32mRequest received: POST /itemBank[39m
+2024-09-15 10:33:30:3330 [32minfo[39m: [32mRequest received: POST /itemBank[39m
+2024-09-15 10:33:30:3330 [32minfo[39m: [32mRequest received: POST /bank[39m
+2024-09-15 10:33:31:3331 [32minfo[39m: [32mRequest received: POST /bank[39m
+2024-09-15 10:33:31:3331 [32minfo[39m: [32mRequest received: GET /[39m
+2024-09-15 10:33:31:3331 [32minfo[39m: [32mRequest received: GET /years[39m
+2024-09-15 10:33:31:3331 [32minfo[39m: [32mRequest received: POST /competition[39m
+2024-09-15 10:33:31:3331 [32minfo[39m: [32mRequest received: GET /[39m
+2024-09-15 10:33:50:3350 [32minfo[39m: [32mRequest received: GET /years[39m
+2024-09-15 10:33:50:3350 [32minfo[39m: [32mRequest received: POST /ratioBank[39m
+2024-09-15 10:33:50:3350 [32minfo[39m: [32mRequest received: POST /ratioBank[39m
+2024-09-15 10:33:50:3350 [32minfo[39m: [32mRequest received: POST /ratioBank[39m
+2024-09-15 10:33:50:3350 [32minfo[39m: [32mRequest received: POST /itemBank[39m
+2024-09-15 10:33:50:3350 [32minfo[39m: [32mRequest received: POST /itemBank[39m
+2024-09-15 10:33:50:3350 [32minfo[39m: [32mRequest received: POST /bank[39m
+2024-09-15 10:33:50:3350 [32minfo[39m: [32mRequest received: POST /itemBank[39m
+2024-09-15 10:33:50:3350 [32minfo[39m: [32mRequest received: POST /bank[39m
+2024-09-15 10:33:51:3351 [32minfo[39m: [32mRequest received: POST /itemBank[39m
+2024-09-15 10:33:51:3351 [32minfo[39m: [32mRequest received: GET /years[39m
+2024-09-15 10:33:51:3351 [32minfo[39m: [32mRequest received: POST /competition[39m

@@ -37,7 +37,6 @@ module.exports = (app) => {
     ],
   };
 
-  console.log("Test---------------------------------------------" + NODE_ENV === "development")
   app.use(cors(corsOptions));
 
   //start of routes
